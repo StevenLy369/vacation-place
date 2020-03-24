@@ -12,3 +12,10 @@ h3 {
   background-color: darkslategray;
   color: whitesmoke;
 }
+
+.p-dark {
+  background-color: aquamarine;
+  border-width: 3px;
+  border-color: black;
+  border-style: solid;
+}

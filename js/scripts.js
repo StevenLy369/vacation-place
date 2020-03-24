@@ -4,6 +4,11 @@ $(document).ready(function() {
     $(".jumbotron").toggleClass("jumbo-dark");
   });  
 
+  $("p").click(function(){
+    $("p").removeClass();
+    $(this).toggleClass("p-dark");
+      
 
+  });
   
 });
