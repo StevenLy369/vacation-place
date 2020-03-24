@@ -2,3 +2,13 @@ h3 {
   text-align:center;
   color: forestgreen;
 }
+
+.dark-background {
+  background-color: darkslateblue;
+  color: whitesmoke;
+}
+
+.jumbo-dark {
+  background-color: darkslategray;
+  color: whitesmoke;
+}
